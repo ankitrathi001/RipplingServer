@@ -1,0 +1,11 @@
+org/rippling/web/errors/ItemNotFoundException.class
+org/rippling/App.class
+org/rippling/dao/model/Item.class
+org/rippling/web/errors/ApplicationExceptionHandler.class
+org/rippling/dao/model/ItemRepository.class
+org/rippling/web/ItemController.class
+org/rippling/web/constraints/USPhoneNumber$List.class
+org/rippling/web/errors/ErrorResponse.class
+org/rippling/apis/Dao.class
+org/rippling/apisimpl/ItemDao.class
+org/rippling/web/constraints/USPhoneNumber.class
